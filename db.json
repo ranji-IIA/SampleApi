@@ -5,5 +5,8 @@
         "title": "hello"
       }
     ],
-    "branch": "Africa"
+    "branch": {
+        "id":1,
+        "title":"africa"
+    }
   }
