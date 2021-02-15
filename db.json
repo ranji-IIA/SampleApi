@@ -1,11 +1,11 @@
 {
-    "user": [
+    "user":
       {
         "id": "123456",
         "accessToken": "access123456",
         "refreshToken": "refresh123456"
       }
-    ],
+    ,
     "branch": {
         "id":1,
         "title":"africa"
