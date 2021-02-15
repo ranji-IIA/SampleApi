@@ -1,10 +1,17 @@
 {
     "user":
+    [
       {
         "id": "123456",
         "accessToken": "access123456",
         "refreshToken": "refresh123456"
+      },
+      {
+        "id": "789456",
+        "accessToken": "access789456",
+        "refreshToken": "refresh789456"
       }
+    ]
     ,
     "branch": {
         "id":1,
