@@ -1,8 +1,9 @@
 {
-    "posts": [
+    "user": [
       {
-        "id": 1,
-        "title": "hello"
+        "id": "123456",
+        "accessToken": "access123456",
+        "refreshToken": "refresh123456"
       }
     ],
     "branch": {
