@@ -2,5 +2,13 @@
   "branch": {
     "id": 1,
     "title": "africa"
+  },
+  "user":{
+    "name":"alam",
+    "email":"alam@mail.com",
+    "username":"alamb",
+    "branch":"antartica",
+    "role":"rl_delivery"
   }
+  
 }
